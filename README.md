@@ -19,6 +19,12 @@ A simple notes application built to practice Django and React. The application u
 
 You can access the deployed application [here](https://4bf0f808-4890-40da-8295-633e528890a1.e1-us-east-azure.choreoapps.dev).
 
+### Viideo Demonstration
+
+https://github.com/user-attachments/assets/8f6be3a4-e808-431d-a1e6-da8e75a999df
+
+
+
 ### Note
 
 The deployed version might not go past login since the database shuts after 1 hour.
