@@ -1,4 +1,4 @@
-# Simple Notes App
+# Jot Joy
 
 A simple notes application built to practice Django and React. The application uses JWT authorization and PostgreSQL for the database.
 
